@@ -36,12 +36,12 @@ This system ensures timely aid by providing detailed health and positional data 
 By combining soldier health vitals and positional data, squadron leaders can pinpoint areas with injured or fatigued troops. This information supports better troop movement strategization and informed decision-making.
 
 <div align="center">
-  <img src="./assets/teams.gif" alt="Map">
+  <img src="./assets/teams.gif" alt="Map" height="400">
   <p style="color: grey;" align="center">Identification of injured troops. <a href="http://hardscrabblefarm.com/vn/combat-formations.html">Source</a></p>
 </div>
 
 <div align="center">
-  <img  src="./assets/mobile-app.png" alt="Mobile App">
+  <img  src="./assets/mobile-app.png" alt="Mobile App" height="500">
   <p style="color: grey;" align="center">Data received on mobile application</p>
 </div>
 
