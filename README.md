@@ -3,7 +3,7 @@
 The proposed wearable device can be used for tracking soldier health vitals and using positional data for rescue and aid operations,
 as well as strategizing movement of troops in the battlefield.
 
-![Circuit](./assets/circuit.jpg)
+![Circuit](./assets/circuit.png)
 
 ## Circuit Diagram
 
